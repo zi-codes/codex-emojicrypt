@@ -5,10 +5,10 @@ A little ruby side project I wrote in my 7th week of learning to code at Makers.
 
 ## Expected input and output examples 
 
--base: 10, base-10-number-input: 905 => "905"
--base: 2, base-10-number-input: 16 => "10000"
--base: 16, base-10-number-input: 64206 => "FACE"
--base: emojis(2339), base-10-number-input: 1_000_000 => "🤷🏻‍♂️🥢"
+- base: 10, base-10-number-input: 905 => "905"
+- base: 2, base-10-number-input: 16 => "10000"
+- base: 16, base-10-number-input: 64206 => "FACE"
+- base: emojis(2339), base-10-number-input: 1_000_000 => "🤷🏻‍♂️🥢"
 
 ## Next steps
 
