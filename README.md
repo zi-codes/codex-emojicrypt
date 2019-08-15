@@ -1,10 +1,12 @@
 # Emojicrypt < Codex Z
 
+
 ![image](Screenshot.png)
 
 A little ruby side project I wrote in my 7th week of learning to code at Makers. It currently consists of a function that can convert a base-10 number into any base system, given the symbol set. Most importantly, it can convert base-10 numbers into base-emoji (currently equivalent to base-2339, but subject to change)
 
-## Expected input and output examples
+
+## Expected input and output examples 
 
 - base: 10, base-10-number-input: 905 => "905"
 - base: 2, base-10-number-input: 16 => "10000"
