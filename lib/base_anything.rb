@@ -18,7 +18,6 @@ class Base
       number = reduce(power: power, number: number)
     end
 
-    p "the answer array is #{answer_array}"
 
     prettify(answer_array)
   end
