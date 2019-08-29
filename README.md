@@ -1,4 +1,4 @@
-# Emojicrypt < Codex Z
+# Base Emoji
 
 
 ![image](Screenshot.png)
